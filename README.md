@@ -57,6 +57,16 @@ Day 6 – Resume Optimization (ATS)
 * Added relevant tech stack keywords in projects.
 * Used standard headings (Education, Skills, Experience).
 
+Day 7 – Claude Usage Strategy
+
+* Explored how to use different Claude models effectively.
+* Created a personalized Claude Usage Strategy.
+* Learned when to use Sonnet, Haiku, and Opus for different tasks.
+* Understood the importance of choosing the right model and effort level.
+* Learned that providing specific context (e.g., React + Tailwind) improves AI-generated outputs.
+* Documented the strategy, screenshots, and key takeaways.
+
+
 Key Learnings
 
 * Better prompts lead to better outputs.
