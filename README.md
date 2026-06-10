@@ -87,6 +87,19 @@ Observed how iterative prompting can significantly improve application quality.
 Learned how AI can assist in rapid prototyping and frontend application development.
 Documented screenshots, HTML files, comparison notes, and key learnings.
 
+Day 10 – AI Portfolio Website Development
+
+* Built a complete personal portfolio website using Claude AI.
+* Generated the initial portfolio website from a structured prompt.
+* Customized the portfolio with personal information, skills, projects, and contact details.
+* Improved the design, layout, and responsiveness of the generated website.
+* Tested the portfolio locally in the browser.
+* Deployed the portfolio online and made it publicly accessible.
+* Learned how AI can accelerate frontend development and portfolio creation.
+* Observed the importance of refining AI-generated code for better user experience and customization.
+* Documented screenshots, source files, deployment link, and key learnings.
+
+
 Key Learnings
 
 * Better prompts lead to better outputs.
