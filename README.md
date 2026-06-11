@@ -99,6 +99,17 @@ Day 10 – AI Portfolio Website Development
 * Observed the importance of refining AI-generated code for better user experience and customization.
 * Documented screenshots, source files, deployment link, and key learnings.
 
+Day 11 – ATS Resume Optimization & Analysis
+
+Performed ATS analysis by comparing my resume against a target Frontend Developer job description.
+Learned how Applicant Tracking Systems (ATS) evaluate resumes based on keywords, skills, and formatting.
+Identified missing keywords, skill gaps, and improvement opportunities through AI-powered analysis.
+Optimized my resume while maintaining factual accuracy.
+Improved ATS compatibility by aligning resume content with job requirements.
+Increased ATS Match Score to 88/100.
+Learned the importance of tailoring a resume for specific job descriptions rather than using a generic resume.
+Documented ATS analysis results, optimized resume, screenshots, and key takeaways.
+
 
 Key Learnings
 
