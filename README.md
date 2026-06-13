@@ -123,6 +123,19 @@ Researched target companies and relevant opportunities aligned with my career go
 Learned how personal branding can influence job search success.
 Documented generated outputs, screenshots, recommendations, and key takeaways.
 
+Day 13 – AI-Powered Job Discovery & Market Research
+
+Connected Claude with Indeed using the Indeed Connector.
+Created a professional profile and defined job search criteria.
+Used AI to discover relevant job opportunities based on skills, experience, and career goals.
+Reviewed job match scores and analyzed opportunity rankings.
+Explored market demand insights for Frontend, React, and Full Stack development roles.
+Identified key in-demand skills, including React.js, JavaScript, Next.js, Tailwind CSS, and TypeScript.
+Performed a skill-gap analysis to identify areas requiring improvement.
+Received personalized recommendations for increasing interview and hiring potential.
+Learned how AI can automate job discovery, profile evaluation, and career planning.
+Documented generated outputs, opportunity analysis, screenshots, and key takeaways.
+
 Key Learnings
 
 * Better prompts lead to better outputs.
